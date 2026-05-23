@@ -1,0 +1,50 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-classic
+ 
+# LangGraph
+langgraph
+langgraph-checkpoint-sqlite
+tavily-python
+
+# Streamlit
+Streamlit
+
+# LangSmith
+langsmith
+
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Groq
+groq
+python-dotenv
+langchain-groq  # Optional: only if using LangChain
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# CrewAI
+crewai
+crewai[tools]
